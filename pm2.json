@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name": "api-sabit",
+    "script": "npm",
+    "args": "start",
+    "exec_mode": "cluster",
+    "instances": 6
+  }]
+}
